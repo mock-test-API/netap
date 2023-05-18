@@ -5,5 +5,7 @@
       "title": "Wait for It",
       "artist": "Leslie Odom Jr."
    },
-   "meta": {}
+   "meta": {
+      "homeURL": "https://wapi.netlify.app/"
+   }
 }
