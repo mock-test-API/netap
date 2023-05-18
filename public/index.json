@@ -5,15 +5,15 @@
    "results": [
       {
          "id": 1,
-         "url": "https://wapi.netlify.app/1.json/"
+         "url": "https://wapi.netlify.app/pokemon/1.json/"
       },
       {
          "id": 2,
-         "url": "https://wapi.netlify.app/2.json/"
+         "url": "https://wapi.netlify.app/pokemon/2.json/"
       },
       {
          "id": 3,
-         "url": "https://wapi.netlify.app/3.json/"
+         "url": "https://wapi.netlify.app/pokemon/3.json/"
       }
    ]
 }
